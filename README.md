@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @dstechnolution
+- 👋 Hi, I’m Dwight Spencer (@dstechnolution)
 - 👀 I’m interested in Fintech, ML, SecDevOps, and Blockchain
-- 🌱 I’m currently learning finacial governance intergration with open policy agent
+- 🌱 I’m currently learning finacial governance frameworks to intergrete with open policy agent
 - 💞️ I’m looking to collaborate on blockchain and fintech
 - 📫 https://www.linkedin.com/in/dwight-spencer-4b6139228/
+- 💆‍♂️ My hobbies include philosophy(Soto zen, Stoicism, Nietzsche), volunteering with e-NABLE, Unesco, Freecodecamp, and 2600 Magazine.
