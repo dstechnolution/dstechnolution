@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dstechnolution
+- 👀 I’m interested in Fintech, ML, SecDevOps, and Blockchain
+- 🌱 I’m currently learning finacial governance intergration with open policy agent
+- 💞️ I’m looking to collaborate on blockchain and fintech
+- 📫 https://www.linkedin.com/in/dwight-spencer-4b6139228/
